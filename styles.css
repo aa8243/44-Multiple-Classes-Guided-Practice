@@ -1,0 +1,35 @@
+.small-height {
+    height: 200px;
+}
+
+.small-width {
+    width: 200px;
+}
+
+.gold-frame {
+    border: 10px ridge gold;
+    padding: 5px;
+}
+
+.black-frame {
+    border: 5px black;
+    padding: 10px;
+}
+
+.green-frame {
+    border: 8px double #1c8c0f;
+    padding: 6px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+
+img {
+    margin: 8px;
+}
+
+div {
+    padding: 4px;
+}
